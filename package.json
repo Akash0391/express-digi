@@ -1,0 +1,23 @@
+{
+  "name": "02_express",
+  "version": "1.0.0",
+  "description": "Simple manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "tea"
+  ],
+  "author": "Akash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
